@@ -1,6 +1,3 @@
-# DSiteClient
-DingStudio Site Information Terminal Based On CSharp .NET WPF Technology
-
 # 小丁工作室-个人网站信息管理系统（C/S客户端）
 ## 小丁工作室-个人网站信息门户管理系统客户端，基于CSharp.NET（WPF）技术构建。
 ## 数据库引擎使用SQL Server 2016 Express实现。
