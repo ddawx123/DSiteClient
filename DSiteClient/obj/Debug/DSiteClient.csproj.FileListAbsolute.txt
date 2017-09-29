@@ -1,0 +1,16 @@
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\bin\Debug\DSiteClient.exe
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\bin\Debug\DSiteClient.pdb
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.csprojResolveAssemblyReference.cache
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\MainWindow.g.cs
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\App.g.cs
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient_MarkupCompile.cache
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient_MarkupCompile.lref
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\MainWindow.baml
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.g.resources
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.Properties.Resources.resources
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.csproj.GenerateResource.Cache
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.exe
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\DSiteClient.pdb
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\LoginWindow.g.cs
+c:\users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\obj\Debug\LoginWindow.baml
+C:\Users\ddawx\documents\visual studio 2017\Projects\DSiteClient\DSiteClient\bin\Debug\Newtonsoft.Json.dll

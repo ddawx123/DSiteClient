@@ -1,0 +1,18 @@
+﻿<Window x:Class="DSiteClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DSiteClient"
+        xmlns:winform="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        mc:Ignorable="d"
+        Title="小丁工作室-个人网站信息管理系统" Height="762.64" Width="1056.119" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" Loaded="Window_Loaded" Background="#FFFDFFD7">
+    <Grid>
+        <Label x:Name="label_siteListBox" Content="站点数据实时查询结果：" Margin="100,38,718,649" RenderTransformOrigin="-0.462,0.5" FontWeight="Bold" FontSize="20" Background="{x:Null}"/>
+        <DataGrid x:Name="dg_siteListBox" AutoGenerateColumns="True" Margin="100,100,74,381" Background="#FFD6D6D6"/>
+        <Label x:Name="label_msgListBox" Content="留言数据实时查询结果：" Margin="100,374,718,314" RenderTransformOrigin="-0.462,0.5" FontWeight="Bold" Background="{x:Null}" FontSize="20"/>
+        <DataGrid x:Name="dg_msgListBox" AutoGenerateColumns="True" Margin="100,441,74,40" Background="#FFD2FFFD"/>
+        <Button x:Name="btnReload" Content="刷新" HorizontalAlignment="Left" Margin="797,36,0,0" VerticalAlignment="Top" Width="73" Height="45" FontWeight="Bold" FontSize="16" Background="#FFDDFFD5" Click="btnReload_Click"/>
+        <Button x:Name="btnReLock" Content="锁定" HorizontalAlignment="Left" Margin="893,36,0,0" VerticalAlignment="Top" Width="73" Height="45" FontWeight="Bold" FontSize="16" Background="#FFDDFFD5" Click="btnReLock_Click"/>
+    </Grid>
+</Window>

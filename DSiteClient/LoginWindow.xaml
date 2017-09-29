@@ -1,0 +1,19 @@
+﻿<Window x:Class="DSiteClient.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DSiteClient"
+        mc:Ignorable="d"
+        Title="小丁工作室-统一身份认证" Height="331.111" Width="303.333" ResizeMode="NoResize" Topmost="True" WindowStartupLocation="CenterScreen" Cursor="Arrow" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalContentAlignment="Center" VerticalAlignment="Center" Unloaded="Window_Unloaded" Loaded="Window_Loaded">
+    <Grid Background="#FFDEFFD4" Margin="0,0,-6,0">
+        <TextBox x:Name="textUserName" HorizontalAlignment="Left" Height="23" Margin="115.08,94.706,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFF9FFD0"/>
+        <PasswordBox x:Name="textPassword" HorizontalAlignment="Left" Height="23" Margin="115.08,134.939,0,0" VerticalAlignment="Top" Width="120" Background="#FFF9FFD0"/>
+        <Label Content="账号：" HorizontalAlignment="Left" Margin="56.468,94.688,0,0" VerticalAlignment="Top"/>
+        <Label Content="密码：" HorizontalAlignment="Left" Margin="56.468,132.921,0,0" VerticalAlignment="Top"/>
+        <Label Content="身份验证器" HorizontalAlignment="Center" Margin="86.396,28.223,88.012,209.905" VerticalAlignment="Center" Height="32.872" Width="119.592" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20"/>
+        <Button Content="立即登录" HorizontalAlignment="Center" Margin="56,200,156,71" VerticalAlignment="Center" Width="91" Height="31" Background="#FFC8FFF7" Click="Button_Click" IsDefault="True"/>
+        <Label Content="小丁工作室 版权所有" HorizontalAlignment="Center" Margin="64.569,236,58.92,10" VerticalAlignment="Center" Width="170.511" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button x:Name="btnSettings" Content="设置" HorizontalAlignment="Left" Margin="160,200,0,0" VerticalAlignment="Top" Width="75" Height="31" Background="White" Click="btnSettings_Click"/>
+    </Grid>
+</Window>
